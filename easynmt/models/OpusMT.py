@@ -74,9 +74,6 @@ class OpusMT:
     def save(self, output_path):
         ########################################################################################
 
-        # Modified by - Aniket Sood
-
-
         # This function will not be required for normal run
         # but can be used in case we want to save the models in the desired path.
 
